@@ -1,0 +1,19 @@
+* {
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.divStyle {
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: -8px -8px 30px black;
+
+}
+
+.textStyle1 {
+    width: 80%;
+    border: 1px solid #dde0d7;
+    box-shadow: 5px 5px 5px #888888;
+    border-radius: 40px;
+}

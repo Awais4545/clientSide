@@ -1,0 +1,44 @@
+* {
+    border: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+.mainBanner {
+    background-color: #1AC073;
+}
+
+#styleTextBanner {
+    font-family: 'Gilroy-Medium';
+    color: #FFFFFF !important;
+    font-size: 65px;
+
+}
+
+#styleTextPar {
+
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+
+}
+
+.boxBanner1 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    background-image: url("../../assets/bannerBack.png");
+    background-image: cover;
+    width: fit-content !important;
+    height: 30vh;
+    background-position: end;
+    background-repeat: none;
+
+
+}
